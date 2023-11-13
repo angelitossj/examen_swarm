@@ -9,7 +9,7 @@
 ## en client
 `docker build . -t client`
 ## en mysql
-`docker build . -t mysql`
+`docker build . -t mysql-image`
 
 ## PASO 2 Desplegar los servicios con swarm
 
